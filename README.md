@@ -10,7 +10,7 @@
 * Doesn't break browsers back button 💯
 * Highly customizable ✨
 
-[![Build Status](https://travis-ci.org/webcreate/infinite-ajax-scroll.svg?branch=3.x)](https://travis-ci.org/webcreate/infinite-ajax-scroll) [![npm](https://img.shields.io/npm/v/@webcreate/infinite-ajax-scroll)](https://www.npmjs.com/package/@webcreate/infinite-ajax-scroll)
+[![Build Status](https://travis-ci.org/webcreate/infinite-ajax-scroll.svg?branch=3.x)](https://travis-ci.org/github/thanhvv/loadmorePagination) [![npm](https://img.shields.io/npm/v/@webcreate/infinite-ajax-scroll)](https://www.npmjs.com/package/@webcreate/infinite-ajax-scroll)
 ## Author
 
 Contributors: thanhvv </br>
